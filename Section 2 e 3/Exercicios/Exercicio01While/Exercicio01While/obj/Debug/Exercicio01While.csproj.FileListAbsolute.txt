@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\bin\Debug\Exercicio01While.exe.config
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\bin\Debug\Exercicio01While.exe
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\bin\Debug\Exercicio01While.pdb
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\obj\Debug\Exercicio01While.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\obj\Debug\Exercicio01While.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\obj\Debug\Exercicio01While.exe
+C:\temp\exercicios c#\Exercicio01While\Exercicio01While\obj\Debug\Exercicio01While.pdb

@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\bin\Debug\net8.0\exercicioFIxação.exe
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\bin\Debug\net8.0\exercicioFIxação.deps.json
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\bin\Debug\net8.0\exercicioFIxação.runtimeconfig.json
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\bin\Debug\net8.0\exercicioFIxação.dll
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\bin\Debug\net8.0\exercicioFIxação.pdb
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.dll
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\refint\exercicioFIxação.dll
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.pdb
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\exercicioFIxação.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 10\exercicioFIxação\exercicioFIxação\obj\Debug\net8.0\ref\exercicioFIxação.dll

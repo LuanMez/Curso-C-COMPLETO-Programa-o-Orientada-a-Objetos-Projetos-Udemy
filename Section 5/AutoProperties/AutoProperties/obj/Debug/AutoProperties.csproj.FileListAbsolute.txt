@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe.config
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\bin\Debug\AutoProperties.exe
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\bin\Debug\AutoProperties.pdb
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\obj\Debug\AutoProperties.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\obj\Debug\AutoProperties.exe
+C:\temp\Codigo C#\Section 5\AutoProperties\AutoProperties\obj\Debug\AutoProperties.pdb

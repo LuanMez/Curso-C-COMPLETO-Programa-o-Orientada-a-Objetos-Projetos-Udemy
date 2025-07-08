@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\bin\Debug\CalculoNota.exe.config
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\bin\Debug\CalculoNota.exe
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\bin\Debug\CalculoNota.pdb
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\obj\Debug\CalculoNota.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\obj\Debug\CalculoNota.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\obj\Debug\CalculoNota.exe
+C:\temp\Codigo C#\Exercicios C#\CalculoNota\CalculoNota\obj\Debug\CalculoNota.pdb

@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 4\Classe\Classe\bin\Debug\Classe.exe.config
+C:\temp\Codigo C#\Section 4\Classe\Classe\bin\Debug\Classe.exe
+C:\temp\Codigo C#\Section 4\Classe\Classe\bin\Debug\Classe.pdb
+C:\temp\Codigo C#\Section 4\Classe\Classe\obj\Debug\Classe.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 4\Classe\Classe\obj\Debug\Classe.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 4\Classe\Classe\obj\Debug\Classe.exe
+C:\temp\Codigo C#\Section 4\Classe\Classe\obj\Debug\Classe.pdb

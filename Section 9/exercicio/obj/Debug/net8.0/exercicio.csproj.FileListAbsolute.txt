@@ -1,0 +1,28 @@
+/home/usuario/Downloads/Csharp/exercicio/bin/Debug/net8.0/exercicio
+/home/usuario/Downloads/Csharp/exercicio/bin/Debug/net8.0/exercicio.deps.json
+/home/usuario/Downloads/Csharp/exercicio/bin/Debug/net8.0/exercicio.runtimeconfig.json
+/home/usuario/Downloads/Csharp/exercicio/bin/Debug/net8.0/exercicio.dll
+/home/usuario/Downloads/Csharp/exercicio/bin/Debug/net8.0/exercicio.pdb
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.AssemblyInfoInputs.cache
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.AssemblyInfo.cs
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.csproj.CoreCompileInputs.cache
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.dll
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/refint/exercicio.dll
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.pdb
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/exercicio.genruntimeconfig.cache
+/home/usuario/Downloads/Csharp/exercicio/obj/Debug/net8.0/ref/exercicio.dll
+C:\temp\Codigo C#\Section 9\exercicio\bin\Debug\net8.0\exercicio.exe
+C:\temp\Codigo C#\Section 9\exercicio\bin\Debug\net8.0\exercicio.deps.json
+C:\temp\Codigo C#\Section 9\exercicio\bin\Debug\net8.0\exercicio.runtimeconfig.json
+C:\temp\Codigo C#\Section 9\exercicio\bin\Debug\net8.0\exercicio.dll
+C:\temp\Codigo C#\Section 9\exercicio\bin\Debug\net8.0\exercicio.pdb
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.dll
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\refint\exercicio.dll
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.pdb
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 9\exercicio\obj\Debug\net8.0\ref\exercicio.dll

@@ -1,0 +1,7 @@
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\bin\Debug\forQuantNumInteiro.exe.config
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\bin\Debug\forQuantNumInteiro.exe
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\bin\Debug\forQuantNumInteiro.pdb
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\obj\Debug\forQuantNumInteiro.csproj.AssemblyReference.cache
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\obj\Debug\forQuantNumInteiro.csproj.CoreCompileInputs.cache
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\obj\Debug\forQuantNumInteiro.exe
+C:\temp\projetos\forQuantNumInteiro\forQuantNumInteiro\obj\Debug\forQuantNumInteiro.pdb

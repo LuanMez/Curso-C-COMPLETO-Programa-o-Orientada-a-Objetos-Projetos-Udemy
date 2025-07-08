@@ -1,0 +1,7 @@
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.exe
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.exe
+C:\temp\projetos\EntradaDeDados\EntradaDeDados\obj\Debug\EntradaDeDados.pdb

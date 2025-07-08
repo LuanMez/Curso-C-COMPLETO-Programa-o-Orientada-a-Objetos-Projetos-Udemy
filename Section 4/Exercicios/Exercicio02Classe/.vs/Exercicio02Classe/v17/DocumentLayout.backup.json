@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Exercicios C#\\Section 4\\Exercicio02Classe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30BF423-9010-4CD2-A45A-AE358AB98098}|Exercicio02Classe\\Exercicio02Classe.csproj|c:\\temp\\exercicios c#\\section 4\\exercicio02classe\\exercicio02classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30BF423-9010-4CD2-A45A-AE358AB98098}|Exercicio02Classe\\Exercicio02Classe.csproj|solutionrelative:exercicio02classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30BF423-9010-4CD2-A45A-AE358AB98098}|Exercicio02Classe\\Exercicio02Classe.csproj|c:\\temp\\exercicios c#\\section 4\\exercicio02classe\\exercicio02classe\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30BF423-9010-4CD2-A45A-AE358AB98098}|Exercicio02Classe\\Exercicio02Classe.csproj|solutionrelative:exercicio02classe\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\temp\\Exercicios C#\\Section 4\\Exercicio02Classe\\Exercicio02Classe\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicio02Classe\\Funcionario.cs",
+              "ToolTip": "C:\\temp\\Exercicios C#\\Section 4\\Exercicio02Classe\\Exercicio02Classe\\Funcionario.cs",
+              "RelativeToolTip": "Exercicio02Classe\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:53:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Exercicios C#\\Section 4\\Exercicio02Classe\\Exercicio02Classe\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio02Classe\\Program.cs",
+              "ToolTip": "C:\\temp\\Exercicios C#\\Section 4\\Exercicio02Classe\\Exercicio02Classe\\Program.cs*",
+              "RelativeToolTip": "Exercicio02Classe\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:53:33.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

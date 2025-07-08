@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 6\\operacoesComDateTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C24897B-1426-4F2E-B992-A3541CFB182E}|operacoesComDateTime\\operacoesComDateTime.csproj|c:\\temp\\codigo c#\\section 6\\operacoescomdatetime\\operacoescomdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C24897B-1426-4F2E-B992-A3541CFB182E}|operacoesComDateTime\\operacoesComDateTime.csproj|solutionrelative:operacoescomdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 6\\operacoesComDateTime\\operacoesComDateTime\\Program.cs",
+              "RelativeDocumentMoniker": "operacoesComDateTime\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 6\\operacoesComDateTime\\operacoesComDateTime\\Program.cs*",
+              "RelativeToolTip": "operacoesComDateTime\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:24:59.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

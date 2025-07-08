@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|c:\\temp\\codigo c#\\section 9\\metodosabstratos\\metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|c:\\temp\\codigo c#\\section 9\\metodosabstratos\\metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|c:\\temp\\codigo c#\\section 9\\metodosabstratos\\metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|c:\\temp\\codigo c#\\section 9\\metodosabstratos\\metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|c:\\temp\\codigo c#\\section 9\\metodosabstratos\\metodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F025E8-A45F-46EF-9418-7ADC19C1D07C}|metodosAbstratos\\metodosAbstratos.csproj|solutionrelative:metodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Circle.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:24:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:23:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:23:42.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Entities\\Shape.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "metodosAbstratos\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:23:31.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "metodosAbstratos\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\metodosAbstratos\\metodosAbstratos\\Program.cs",
+              "RelativeToolTip": "metodosAbstratos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:22:10.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

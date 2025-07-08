@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\bin\Debug\net8.0\exercicioEmpresa.exe
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\bin\Debug\net8.0\exercicioEmpresa.deps.json
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\bin\Debug\net8.0\exercicioEmpresa.runtimeconfig.json
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\bin\Debug\net8.0\exercicioEmpresa.dll
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\bin\Debug\net8.0\exercicioEmpresa.pdb
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.dll
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\refint\exercicioEmpresa.dll
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.pdb
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\exercicioEmpresa.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 9\exercicioEmpresa\exercicioEmpresa\obj\Debug\net8.0\ref\exercicioEmpresa.dll

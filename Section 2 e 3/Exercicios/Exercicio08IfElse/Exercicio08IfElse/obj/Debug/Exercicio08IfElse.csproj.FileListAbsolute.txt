@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\bin\Debug\Exercicio08IfElse.exe.config
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\bin\Debug\Exercicio08IfElse.exe
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\bin\Debug\Exercicio08IfElse.pdb
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\obj\Debug\Exercicio08IfElse.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\obj\Debug\Exercicio08IfElse.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\obj\Debug\Exercicio08IfElse.exe
+C:\temp\exercicios c#\Exercicio08IfElse\Exercicio08IfElse\obj\Debug\Exercicio08IfElse.pdb

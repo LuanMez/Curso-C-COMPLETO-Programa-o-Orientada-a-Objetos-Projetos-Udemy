@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mostrarTresNumeroOMaior", "mostrarTresNumeroOMaior\mostrarTresNumeroOMaior.csproj", "{60B465A7-3808-40EB-8BB9-5FA74C0283BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B465A7-3808-40EB-8BB9-5FA74C0283BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B465A7-3808-40EB-8BB9-5FA74C0283BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B465A7-3808-40EB-8BB9-5FA74C0283BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B465A7-3808-40EB-8BB9-5FA74C0283BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911F4099-D641-40D8-BDD8-C17D3C8E4072}
+	EndGlobalSection
+EndGlobal

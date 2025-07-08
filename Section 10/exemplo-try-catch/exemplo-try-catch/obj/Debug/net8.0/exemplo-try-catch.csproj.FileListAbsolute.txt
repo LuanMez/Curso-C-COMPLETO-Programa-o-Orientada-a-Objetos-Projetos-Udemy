@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\bin\Debug\net8.0\exemplo-try-catch.exe
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\bin\Debug\net8.0\exemplo-try-catch.deps.json
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\bin\Debug\net8.0\exemplo-try-catch.runtimeconfig.json
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\bin\Debug\net8.0\exemplo-try-catch.dll
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\bin\Debug\net8.0\exemplo-try-catch.pdb
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.dll
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\refint\exemplo-try-catch.dll
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.pdb
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\exemplo-try-catch.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 10\exemplo-try-catch\exemplo-try-catch\obj\Debug\net8.0\ref\exemplo-try-catch.dll

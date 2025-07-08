@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\bin\Debug\operacoesComDateTime.exe.config
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\bin\Debug\operacoesComDateTime.exe
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\bin\Debug\operacoesComDateTime.pdb
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\obj\Debug\operacoesComDateTime.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\obj\Debug\operacoesComDateTime.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\obj\Debug\operacoesComDateTime.exe
+C:\temp\Codigo C#\Section 6\operacoesComDateTime\operacoesComDateTime\obj\Debug\operacoesComDateTime.pdb

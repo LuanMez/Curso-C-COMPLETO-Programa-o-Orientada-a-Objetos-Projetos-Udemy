@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\bin\Debug\Exercicio Hotel.exe.config
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\bin\Debug\Exercicio Hotel.exe
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\bin\Debug\Exercicio Hotel.pdb
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\obj\Debug\Exercicio Hotel.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\obj\Debug\Exercicio Hotel.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\obj\Debug\Exercicio Hotel.exe
+C:\temp\Codigo C#\Section 6\Exercicio Hotel\Exercicio Hotel\obj\Debug\Exercicio Hotel.pdb

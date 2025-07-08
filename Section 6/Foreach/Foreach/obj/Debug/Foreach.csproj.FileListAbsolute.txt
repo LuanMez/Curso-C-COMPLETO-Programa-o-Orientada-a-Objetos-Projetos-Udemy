@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\temp\Codigo C#\Section 6\Foreach\Foreach\obj\Debug\Foreach.pdb

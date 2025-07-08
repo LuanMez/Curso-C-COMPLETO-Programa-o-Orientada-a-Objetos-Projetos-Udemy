@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\bin\Debug\Vetores Objeto.exe.config
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\bin\Debug\Vetores Objeto.exe
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\bin\Debug\Vetores Objeto.pdb
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\obj\Debug\Vetores Objeto.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\obj\Debug\Vetores Objeto.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\obj\Debug\Vetores Objeto.exe
+C:\temp\Codigo C#\Section 6\Vetores Objeto\Vetores Objeto\obj\Debug\Vetores Objeto.pdb

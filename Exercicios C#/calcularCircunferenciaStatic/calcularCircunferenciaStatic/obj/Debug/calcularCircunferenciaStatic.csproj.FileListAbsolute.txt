@@ -1,0 +1,2 @@
+C:\temp\Codigo C#\Exercicios C#\calcularCircunferenciaStatic\calcularCircunferenciaStatic\obj\Debug\calcularCircunferenciaStatic.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Exercicios C#\calcularCircunferenciaStatic\calcularCircunferenciaStatic\obj\Debug\calcularCircunferenciaStatic.csproj.CoreCompileInputs.cache

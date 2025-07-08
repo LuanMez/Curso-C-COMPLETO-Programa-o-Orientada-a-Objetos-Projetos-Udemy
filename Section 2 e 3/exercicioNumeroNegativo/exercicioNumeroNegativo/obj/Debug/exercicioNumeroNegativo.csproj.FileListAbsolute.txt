@@ -1,0 +1,7 @@
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\bin\Debug\exercicioNumeroNegativo.exe.config
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\bin\Debug\exercicioNumeroNegativo.exe
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\bin\Debug\exercicioNumeroNegativo.pdb
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\obj\Debug\exercicioNumeroNegativo.csproj.AssemblyReference.cache
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\obj\Debug\exercicioNumeroNegativo.csproj.CoreCompileInputs.cache
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\obj\Debug\exercicioNumeroNegativo.exe
+C:\temp\projetos\exercicioNumeroNegativo\exercicioNumeroNegativo\obj\Debug\exercicioNumeroNegativo.pdb

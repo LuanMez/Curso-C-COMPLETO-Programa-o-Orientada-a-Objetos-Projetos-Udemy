@@ -1,0 +1,7 @@
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\bin\Debug\aula 18 pate 2.exe.config
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\bin\Debug\aula 18 pate 2.exe
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\bin\Debug\aula 18 pate 2.pdb
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\obj\Debug\aula 18 pate 2.csproj.AssemblyReference.cache
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\obj\Debug\aula 18 pate 2.csproj.CoreCompileInputs.cache
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\obj\Debug\aula 18 pate 2.exe
+C:\temp\projetos\aula 18 pate 2\aula 18 pate 2\obj\Debug\aula 18 pate 2.pdb

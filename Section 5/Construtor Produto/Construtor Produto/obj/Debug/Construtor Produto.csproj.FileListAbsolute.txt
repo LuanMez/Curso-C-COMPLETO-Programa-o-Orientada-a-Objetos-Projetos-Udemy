@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\bin\Debug\Construtor Produto.exe.config
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\bin\Debug\Construtor Produto.exe
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\bin\Debug\Construtor Produto.pdb
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\obj\Debug\Construtor Produto.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\obj\Debug\Construtor Produto.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\obj\Debug\Construtor Produto.exe
+C:\temp\Codigo C#\Section 5\Construtor Produto\Construtor Produto\obj\Debug\Construtor Produto.pdb

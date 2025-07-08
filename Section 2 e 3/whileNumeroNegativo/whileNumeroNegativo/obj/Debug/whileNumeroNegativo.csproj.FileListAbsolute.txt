@@ -1,0 +1,7 @@
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\bin\Debug\whileNumeroNegativo.exe.config
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\bin\Debug\whileNumeroNegativo.exe
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\bin\Debug\whileNumeroNegativo.pdb
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\obj\Debug\whileNumeroNegativo.csproj.AssemblyReference.cache
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\obj\Debug\whileNumeroNegativo.csproj.CoreCompileInputs.cache
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\obj\Debug\whileNumeroNegativo.exe
+C:\temp\projetos\whileNumeroNegativo\whileNumeroNegativo\obj\Debug\whileNumeroNegativo.pdb

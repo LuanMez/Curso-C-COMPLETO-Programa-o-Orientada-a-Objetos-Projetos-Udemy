@@ -1,0 +1,7 @@
+C:\temp\projetos\ifElse\ifElse\bin\Debug\ifElse.exe.config
+C:\temp\projetos\ifElse\ifElse\bin\Debug\ifElse.exe
+C:\temp\projetos\ifElse\ifElse\bin\Debug\ifElse.pdb
+C:\temp\projetos\ifElse\ifElse\obj\Debug\ifElse.csproj.AssemblyReference.cache
+C:\temp\projetos\ifElse\ifElse\obj\Debug\ifElse.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ifElse\ifElse\obj\Debug\ifElse.exe
+C:\temp\projetos\ifElse\ifElse\obj\Debug\ifElse.pdb

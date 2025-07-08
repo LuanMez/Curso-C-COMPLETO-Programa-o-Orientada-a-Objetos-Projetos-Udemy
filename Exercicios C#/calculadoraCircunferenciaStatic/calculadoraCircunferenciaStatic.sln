@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraCircunferenciaStatic", "calculadoraCircunferenciaStatic\calculadoraCircunferenciaStatic.csproj", "{35EF9C3B-E894-4AE1-A60E-1B075993D27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EF9C3B-E894-4AE1-A60E-1B075993D27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EF9C3B-E894-4AE1-A60E-1B075993D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EF9C3B-E894-4AE1-A60E-1B075993D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EF9C3B-E894-4AE1-A60E-1B075993D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7D4194-0B33-4F26-B349-00CE9813FD9B}
+	EndGlobalSection
+EndGlobal

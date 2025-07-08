@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\bin\Debug\Exercicio04IfELse.exe.config
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\bin\Debug\Exercicio04IfELse.exe
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\bin\Debug\Exercicio04IfELse.pdb
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\obj\Debug\Exercicio04IfELse.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\obj\Debug\Exercicio04IfELse.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\obj\Debug\Exercicio04IfELse.exe
+C:\temp\exercicios c#\Exercicio04IfELse\Exercicio04IfELse\obj\Debug\Exercicio04IfELse.pdb

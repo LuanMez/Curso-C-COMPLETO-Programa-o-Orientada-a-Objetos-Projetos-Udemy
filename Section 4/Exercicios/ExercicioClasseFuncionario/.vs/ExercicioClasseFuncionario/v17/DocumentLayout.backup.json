@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Exercicios C#\\Section 4\\ExercicioClasseFuncionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDA85C9-AE95-42BA-BA5F-06295DDA3C16}|ExercicioClasseFuncionario\\ExercicioClasseFuncionario.csproj|c:\\temp\\exercicios c#\\section 4\\exercicioclassefuncionario\\exercicioclassefuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDA85C9-AE95-42BA-BA5F-06295DDA3C16}|ExercicioClasseFuncionario\\ExercicioClasseFuncionario.csproj|solutionrelative:exercicioclassefuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDA85C9-AE95-42BA-BA5F-06295DDA3C16}|ExercicioClasseFuncionario\\ExercicioClasseFuncionario.csproj|c:\\temp\\exercicios c#\\section 4\\exercicioclassefuncionario\\exercicioclassefuncionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDA85C9-AE95-42BA-BA5F-06295DDA3C16}|ExercicioClasseFuncionario\\ExercicioClasseFuncionario.csproj|solutionrelative:exercicioclassefuncionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Exercicios C#\\Section 4\\ExercicioClasseFuncionario\\ExercicioClasseFuncionario\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseFuncionario\\Program.cs",
+              "ToolTip": "C:\\temp\\Exercicios C#\\Section 4\\ExercicioClasseFuncionario\\ExercicioClasseFuncionario\\Program.cs*",
+              "RelativeToolTip": "ExercicioClasseFuncionario\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:49:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\temp\\Exercicios C#\\Section 4\\ExercicioClasseFuncionario\\ExercicioClasseFuncionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseFuncionario\\Funcionario.cs",
+              "ToolTip": "C:\\temp\\Exercicios C#\\Section 4\\ExercicioClasseFuncionario\\ExercicioClasseFuncionario\\Funcionario.cs*",
+              "RelativeToolTip": "ExercicioClasseFuncionario\\Funcionario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:50:08.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

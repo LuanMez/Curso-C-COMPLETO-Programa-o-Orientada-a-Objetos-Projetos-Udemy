@@ -1,0 +1,7 @@
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\bin\Debug\ExercicioClasseFuncionario.exe.config
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\bin\Debug\ExercicioClasseFuncionario.exe
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\bin\Debug\ExercicioClasseFuncionario.pdb
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\obj\Debug\ExercicioClasseFuncionario.csproj.AssemblyReference.cache
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\obj\Debug\ExercicioClasseFuncionario.csproj.CoreCompileInputs.cache
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\obj\Debug\ExercicioClasseFuncionario.exe
+C:\temp\Exercicios C#\Section 4\ExercicioClasseFuncionario\ExercicioClasseFuncionario\obj\Debug\ExercicioClasseFuncionario.pdb

@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Lista\Lista\bin\Debug\Lista.exe.config
+C:\temp\Codigo C#\Section 6\Lista\Lista\bin\Debug\Lista.exe
+C:\temp\Codigo C#\Section 6\Lista\Lista\bin\Debug\Lista.pdb
+C:\temp\Codigo C#\Section 6\Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Lista\Lista\obj\Debug\Lista.exe
+C:\temp\Codigo C#\Section 6\Lista\Lista\obj\Debug\Lista.pdb

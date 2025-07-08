@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\bin\Debug\somaVetores.exe.config
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\bin\Debug\somaVetores.exe
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\bin\Debug\somaVetores.pdb
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\obj\Debug\somaVetores.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\obj\Debug\somaVetores.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\obj\Debug\somaVetores.exe
+C:\temp\Codigo C#\Section 6\somaVetores\somaVetores\obj\Debug\somaVetores.pdb

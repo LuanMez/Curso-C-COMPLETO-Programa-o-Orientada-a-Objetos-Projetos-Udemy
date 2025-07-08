@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\bin\Debug\ExercicioListaFuncionario.exe.config
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\bin\Debug\ExercicioListaFuncionario.exe
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\bin\Debug\ExercicioListaFuncionario.pdb
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\obj\Debug\ExercicioListaFuncionario.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\obj\Debug\ExercicioListaFuncionario.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\obj\Debug\ExercicioListaFuncionario.exe
+C:\temp\Codigo C#\Section 6\ExercicioListaFuncionario\ExercicioListaFuncionario\obj\Debug\ExercicioListaFuncionario.pdb

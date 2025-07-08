@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\bin\Debug\Exeercicio02IfElse.exe.config
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\bin\Debug\Exeercicio02IfElse.exe
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\bin\Debug\Exeercicio02IfElse.pdb
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\obj\Debug\Exeercicio02IfElse.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\obj\Debug\Exeercicio02IfElse.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\obj\Debug\Exeercicio02IfElse.exe
+C:\temp\exercicios c#\Exeercicio02IfElse\Exeercicio02IfElse\obj\Debug\Exeercicio02IfElse.pdb

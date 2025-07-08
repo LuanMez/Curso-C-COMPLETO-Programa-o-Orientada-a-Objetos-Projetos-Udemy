@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\bin\Debug\net8.0\dateTimeKind.exe
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\bin\Debug\net8.0\dateTimeKind.deps.json
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\bin\Debug\net8.0\dateTimeKind.runtimeconfig.json
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\bin\Debug\net8.0\dateTimeKind.dll
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\bin\Debug\net8.0\dateTimeKind.pdb
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.dll
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\refint\dateTimeKind.dll
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.pdb
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\dateTimeKind.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 6\dateTimeKind\dateTimeKind\obj\Debug\net8.0\ref\dateTimeKind.dll

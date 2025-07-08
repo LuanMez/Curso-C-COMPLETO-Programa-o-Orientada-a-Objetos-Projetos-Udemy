@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Ref\Ref\bin\Debug\Ref.exe.config
+C:\temp\Codigo C#\Section 6\Ref\Ref\bin\Debug\Ref.exe
+C:\temp\Codigo C#\Section 6\Ref\Ref\bin\Debug\Ref.pdb
+C:\temp\Codigo C#\Section 6\Ref\Ref\obj\Debug\Ref.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Ref\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Ref\Ref\obj\Debug\Ref.exe
+C:\temp\Codigo C#\Section 6\Ref\Ref\obj\Debug\Ref.pdb

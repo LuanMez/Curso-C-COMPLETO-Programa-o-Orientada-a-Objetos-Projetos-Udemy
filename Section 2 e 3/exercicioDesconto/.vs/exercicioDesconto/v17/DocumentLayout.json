@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\projetos\\exercicioDesconto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC62411C-3E44-4F71-A73A-0BB9FA324FFD}|exercicioDesconto\\exercicioDesconto.csproj|c:\\temp\\projetos\\exerciciodesconto\\exerciciodesconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC62411C-3E44-4F71-A73A-0BB9FA324FFD}|exercicioDesconto\\exercicioDesconto.csproj|solutionrelative:exerciciodesconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\projetos\\exercicioDesconto\\exercicioDesconto\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioDesconto\\Program.cs",
+              "ToolTip": "C:\\temp\\projetos\\exercicioDesconto\\exercicioDesconto\\Program.cs",
+              "RelativeToolTip": "exercicioDesconto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:21:30.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\bin\Debug\ExercicioDeEntrada.exe.config
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\bin\Debug\ExercicioDeEntrada.exe
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\bin\Debug\ExercicioDeEntrada.pdb
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\obj\Debug\ExercicioDeEntrada.csproj.AssemblyReference.cache
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\obj\Debug\ExercicioDeEntrada.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\obj\Debug\ExercicioDeEntrada.exe
+C:\temp\projetos\ExercicioDeEntrada\ExercicioDeEntrada\obj\Debug\ExercicioDeEntrada.pdb

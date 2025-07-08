@@ -1,0 +1,7 @@
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\bin\Debug\Exercicio01Classe.exe.config
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\bin\Debug\Exercicio01Classe.exe
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\bin\Debug\Exercicio01Classe.pdb
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\obj\Debug\Exercicio01Classe.csproj.AssemblyReference.cache
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\obj\Debug\Exercicio01Classe.csproj.CoreCompileInputs.cache
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\obj\Debug\Exercicio01Classe.exe
+C:\temp\Exercicios C#\Section 4\Exercicio01Classe\Exercicio01Classe\obj\Debug\Exercicio01Classe.pdb

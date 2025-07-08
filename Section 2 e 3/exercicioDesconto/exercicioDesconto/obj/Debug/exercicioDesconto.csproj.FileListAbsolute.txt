@@ -1,0 +1,7 @@
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\bin\Debug\exercicioDesconto.exe.config
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\bin\Debug\exercicioDesconto.exe
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\bin\Debug\exercicioDesconto.pdb
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\obj\Debug\exercicioDesconto.csproj.AssemblyReference.cache
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\obj\Debug\exercicioDesconto.csproj.CoreCompileInputs.cache
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\obj\Debug\exercicioDesconto.exe
+C:\temp\projetos\exercicioDesconto\exercicioDesconto\obj\Debug\exercicioDesconto.pdb

@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.exe
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.deps.json
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.runtimeconfig.json
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.dll
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\bin\Debug\net8.0\metodosAbstratos.pdb
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.dll
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\refint\metodosAbstratos.dll
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.pdb
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\metodosAbstratos.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 9\metodosAbstratos\metodosAbstratos\obj\Debug\net8.0\ref\metodosAbstratos.dll

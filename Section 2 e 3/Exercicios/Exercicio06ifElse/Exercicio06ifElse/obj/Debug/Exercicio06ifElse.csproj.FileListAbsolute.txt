@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\bin\Debug\Exercicio06ifElse.exe.config
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\bin\Debug\Exercicio06ifElse.exe
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\bin\Debug\Exercicio06ifElse.pdb
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\obj\Debug\Exercicio06ifElse.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\obj\Debug\Exercicio06ifElse.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\obj\Debug\Exercicio06ifElse.exe
+C:\temp\exercicios c#\Exercicio06ifElse\Exercicio06ifElse\obj\Debug\Exercicio06ifElse.pdb

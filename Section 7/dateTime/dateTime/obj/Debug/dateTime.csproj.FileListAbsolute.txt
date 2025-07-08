@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\obj\Debug\dateTime.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\temp\Codigo C#\Section 6\dateTime\dateTime\obj\Debug\dateTime.pdb

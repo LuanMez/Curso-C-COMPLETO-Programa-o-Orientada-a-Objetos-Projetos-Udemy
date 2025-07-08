@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\bin\Debug\net8.0\fileStreamAndStreamReader.exe
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\bin\Debug\net8.0\fileStreamAndStreamReader.deps.json
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\bin\Debug\net8.0\fileStreamAndStreamReader.runtimeconfig.json
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\bin\Debug\net8.0\fileStreamAndStreamReader.dll
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\bin\Debug\net8.0\fileStreamAndStreamReader.pdb
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.dll
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\refint\fileStreamAndStreamReader.dll
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.pdb
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\fileStreamAndStreamReader.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 11\fileStreamAndStreamReader\fileStreamAndStreamReader\obj\Debug\net8.0\ref\fileStreamAndStreamReader.dll

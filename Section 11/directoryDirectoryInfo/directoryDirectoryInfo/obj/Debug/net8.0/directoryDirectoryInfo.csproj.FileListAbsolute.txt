@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\bin\Debug\net8.0\directoryDirectoryInfo.exe
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\bin\Debug\net8.0\directoryDirectoryInfo.deps.json
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\bin\Debug\net8.0\directoryDirectoryInfo.runtimeconfig.json
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\bin\Debug\net8.0\directoryDirectoryInfo.dll
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\bin\Debug\net8.0\directoryDirectoryInfo.pdb
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.dll
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\refint\directoryDirectoryInfo.dll
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.pdb
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\directoryDirectoryInfo.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 11\directoryDirectoryInfo\directoryDirectoryInfo\obj\Debug\net8.0\ref\directoryDirectoryInfo.dll

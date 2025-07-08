@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|c:\\temp\\codigo c#\\section 9\\exemploheranca2\\exemploheranca2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|solutionrelative:exemploheranca2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|c:\\temp\\codigo c#\\section 9\\exemploheranca2\\exemploheranca2\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|solutionrelative:exemploheranca2\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|c:\\temp\\codigo c#\\section 9\\exemploheranca2\\exemploheranca2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|solutionrelative:exemploheranca2\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|c:\\temp\\codigo c#\\section 9\\exemploheranca2\\exemploheranca2\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0213FB23-781C-43AF-B88C-4B7662775FC4}|exemploHeranca2\\exemploHeranca2.csproj|solutionrelative:exemploheranca2\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Program.cs",
+              "RelativeDocumentMoniker": "exemploHeranca2\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Program.cs",
+              "RelativeToolTip": "exemploHeranca2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:42:08.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "exemploHeranca2\\Entities\\Account.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\Account.cs",
+              "RelativeToolTip": "exemploHeranca2\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:42:59.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "exemploHeranca2\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "exemploHeranca2\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:43:14.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "exemploHeranca2\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 9\\exemploHeranca2\\exemploHeranca2\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "exemploHeranca2\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:42:46.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

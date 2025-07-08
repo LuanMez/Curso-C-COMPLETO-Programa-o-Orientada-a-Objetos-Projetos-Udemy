@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 5\\AutoProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{432062ED-EF7F-4C8F-AE5B-4CCE17007054}|AutoProperties\\AutoProperties.csproj|c:\\temp\\codigo c#\\section 5\\autoproperties\\autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432062ED-EF7F-4C8F-AE5B-4CCE17007054}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432062ED-EF7F-4C8F-AE5B-4CCE17007054}|AutoProperties\\AutoProperties.csproj|c:\\temp\\codigo c#\\section 5\\autoproperties\\autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432062ED-EF7F-4C8F-AE5B-4CCE17007054}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 5\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 5\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeToolTip": "AutoProperties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:11:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 5\\AutoProperties\\AutoProperties\\Produto.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Produto.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 5\\AutoProperties\\AutoProperties\\Produto.cs",
+              "RelativeToolTip": "AutoProperties\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:11:55.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

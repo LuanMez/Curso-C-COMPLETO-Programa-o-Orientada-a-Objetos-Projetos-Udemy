@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\bin\Debug\expressãoCondicional.exe.config
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\bin\Debug\expressãoCondicional.exe
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\bin\Debug\expressãoCondicional.pdb
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\obj\Debug\expressãoCondicional.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\obj\Debug\expressãoCondicional.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\obj\Debug\expressãoCondicional.exe
+C:\temp\Codigo C#\Section 6\expressãoCondicional\expressãoCondicional\obj\Debug\expressãoCondicional.pdb

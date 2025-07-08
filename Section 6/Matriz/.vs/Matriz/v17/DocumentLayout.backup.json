@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 6\\Matriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7B723C-82D3-43FE-845D-85A82897461B}|Matriz\\Matriz.csproj|c:\\temp\\codigo c#\\section 6\\matriz\\matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7B723C-82D3-43FE-845D-85A82897461B}|Matriz\\Matriz.csproj|solutionrelative:matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 6\\Matriz\\Matriz\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 6\\Matriz\\Matriz\\Program.cs",
+              "RelativeToolTip": "Matriz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:10:14.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

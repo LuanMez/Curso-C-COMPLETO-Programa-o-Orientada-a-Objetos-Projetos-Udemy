@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\bin\Debug\funcçõesStrings.exe.config
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\bin\Debug\funcçõesStrings.exe
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\bin\Debug\funcçõesStrings.pdb
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\obj\Debug\funcçõesStrings.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\obj\Debug\funcçõesStrings.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\obj\Debug\funcçõesStrings.exe
+C:\temp\Codigo C#\Section 6\funcçõesStrings\funcçõesStrings\obj\Debug\funcçõesStrings.pdb

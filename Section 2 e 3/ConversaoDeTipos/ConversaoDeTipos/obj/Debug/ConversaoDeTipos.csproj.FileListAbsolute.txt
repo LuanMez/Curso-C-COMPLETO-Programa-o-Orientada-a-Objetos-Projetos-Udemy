@@ -1,0 +1,7 @@
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\ConversaoDeTipos.exe.config
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\ConversaoDeTipos.exe
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\bin\Debug\ConversaoDeTipos.pdb
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\ConversaoDeTipos.csproj.AssemblyReference.cache
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\ConversaoDeTipos.exe
+C:\temp\projetos\ConversaoDeTipos\ConversaoDeTipos\obj\Debug\ConversaoDeTipos.pdb

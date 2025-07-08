@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\bin\Debug\ExercicioLivro.exe.config
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\bin\Debug\ExercicioLivro.exe
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\bin\Debug\ExercicioLivro.pdb
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\obj\Debug\ExercicioLivro.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\obj\Debug\ExercicioLivro.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\obj\Debug\ExercicioLivro.exe
+C:\temp\Codigo C#\Section 5\ExercicioLivro\ExercicioLivro\obj\Debug\ExercicioLivro.pdb

@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 10\finally\finally\bin\Debug\net8.0\finally.exe
+C:\temp\Codigo C#\Section 10\finally\finally\bin\Debug\net8.0\finally.deps.json
+C:\temp\Codigo C#\Section 10\finally\finally\bin\Debug\net8.0\finally.runtimeconfig.json
+C:\temp\Codigo C#\Section 10\finally\finally\bin\Debug\net8.0\finally.dll
+C:\temp\Codigo C#\Section 10\finally\finally\bin\Debug\net8.0\finally.pdb
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.dll
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\refint\finally.dll
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.pdb
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\finally.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 10\finally\finally\obj\Debug\net8.0\ref\finally.dll

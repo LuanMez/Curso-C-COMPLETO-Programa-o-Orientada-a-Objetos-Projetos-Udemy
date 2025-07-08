@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\bin\Debug\net8.0\demonstracaoFileInfo.exe
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\bin\Debug\net8.0\demonstracaoFileInfo.deps.json
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\bin\Debug\net8.0\demonstracaoFileInfo.runtimeconfig.json
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\bin\Debug\net8.0\demonstracaoFileInfo.dll
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\bin\Debug\net8.0\demonstracaoFileInfo.pdb
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.dll
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\refint\demonstracaoFileInfo.dll
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.pdb
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\demonstracaoFileInfo.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 10\demonstracaoFileInfo\demonstracaoFileInfo\obj\Debug\net8.0\ref\demonstracaoFileInfo.dll

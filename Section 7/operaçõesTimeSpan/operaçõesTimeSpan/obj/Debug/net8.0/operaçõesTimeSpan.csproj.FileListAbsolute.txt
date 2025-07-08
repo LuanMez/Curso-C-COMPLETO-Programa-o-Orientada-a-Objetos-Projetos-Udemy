@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\bin\Debug\net8.0\operaçõesTimeSpan.exe
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\bin\Debug\net8.0\operaçõesTimeSpan.deps.json
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\bin\Debug\net8.0\operaçõesTimeSpan.runtimeconfig.json
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\bin\Debug\net8.0\operaçõesTimeSpan.dll
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\bin\Debug\net8.0\operaçõesTimeSpan.pdb
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.dll
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\refint\operaçõesTimeSpan.dll
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.pdb
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\operaçõesTimeSpan.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 6\operaçõesTimeSpan\operaçõesTimeSpan\obj\Debug\net8.0\ref\operaçõesTimeSpan.dll

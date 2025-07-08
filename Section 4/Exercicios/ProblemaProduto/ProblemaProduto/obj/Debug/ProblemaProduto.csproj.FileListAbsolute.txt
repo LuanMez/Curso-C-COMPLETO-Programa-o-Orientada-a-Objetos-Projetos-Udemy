@@ -1,0 +1,7 @@
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe.config
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.pdb
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csproj.AssemblyReference.cache
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csproj.CoreCompileInputs.cache
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.exe
+C:\temp\Exercicios C#\Section 4\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.pdb

@@ -1,0 +1,14 @@
+C:\temp\Codigo C#\Section 11\using\using\bin\Debug\net8.0\using.exe
+C:\temp\Codigo C#\Section 11\using\using\bin\Debug\net8.0\using.deps.json
+C:\temp\Codigo C#\Section 11\using\using\bin\Debug\net8.0\using.runtimeconfig.json
+C:\temp\Codigo C#\Section 11\using\using\bin\Debug\net8.0\using.dll
+C:\temp\Codigo C#\Section 11\using\using\bin\Debug\net8.0\using.pdb
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.AssemblyInfoInputs.cache
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.AssemblyInfo.cs
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.dll
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\refint\using.dll
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.pdb
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\using.genruntimeconfig.cache
+C:\temp\Codigo C#\Section 11\using\using\obj\Debug\net8.0\ref\using.dll

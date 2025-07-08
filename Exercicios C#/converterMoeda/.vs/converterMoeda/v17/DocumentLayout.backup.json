@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Exercicios C#\\converterMoeda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39D492B4-AC7E-4ED9-A1FE-68E681FAD4DA}|converterMoeda\\converterMoeda.csproj|c:\\temp\\codigo c#\\exercicios c#\\convertermoeda\\convertermoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D492B4-AC7E-4ED9-A1FE-68E681FAD4DA}|converterMoeda\\converterMoeda.csproj|solutionrelative:convertermoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D492B4-AC7E-4ED9-A1FE-68E681FAD4DA}|converterMoeda\\converterMoeda.csproj|c:\\temp\\codigo c#\\exercicios c#\\convertermoeda\\convertermoeda\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D492B4-AC7E-4ED9-A1FE-68E681FAD4DA}|converterMoeda\\converterMoeda.csproj|solutionrelative:convertermoeda\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Exercicios C#\\converterMoeda\\converterMoeda\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "converterMoeda\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Exercicios C#\\converterMoeda\\converterMoeda\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "converterMoeda\\ConversorDeMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:42:01.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Exercicios C#\\converterMoeda\\converterMoeda\\Program.cs",
+              "RelativeDocumentMoniker": "converterMoeda\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Exercicios C#\\converterMoeda\\converterMoeda\\Program.cs",
+              "RelativeToolTip": "converterMoeda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:41:15.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

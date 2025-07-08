@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 6\\Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79002C7C-994A-420A-8FBC-830962BF724E}|Vetores\\Vetores.csproj|c:\\temp\\codigo c#\\section 6\\vetores\\vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79002C7C-994A-420A-8FBC-830962BF724E}|Vetores\\Vetores.csproj|solutionrelative:vetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 6\\Vetores\\Vetores\\Program.cs",
+              "RelativeDocumentMoniker": "Vetores\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 6\\Vetores\\Vetores\\Program.cs",
+              "RelativeToolTip": "Vetores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:22:25.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

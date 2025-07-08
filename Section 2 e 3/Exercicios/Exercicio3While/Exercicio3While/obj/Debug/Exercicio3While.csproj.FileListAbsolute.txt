@@ -1,0 +1,7 @@
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\bin\Debug\Exercicio3While.exe.config
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\bin\Debug\Exercicio3While.exe
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\bin\Debug\Exercicio3While.pdb
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\obj\Debug\Exercicio3While.csproj.AssemblyReference.cache
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\obj\Debug\Exercicio3While.csproj.CoreCompileInputs.cache
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\obj\Debug\Exercicio3While.exe
+C:\temp\exercicios c#\Exercicio3While\Exercicio3While\obj\Debug\Exercicio3While.pdb

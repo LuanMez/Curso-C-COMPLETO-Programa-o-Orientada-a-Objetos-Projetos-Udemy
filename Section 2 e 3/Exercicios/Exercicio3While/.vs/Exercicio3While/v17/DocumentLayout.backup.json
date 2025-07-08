@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\exercicios c#\\Exercicio3While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E536EE-565A-4C4B-80DB-F7CAFC3ED07B}|Exercicio3While\\Exercicio3While.csproj|c:\\temp\\exercicios c#\\exercicio3while\\exercicio3while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E536EE-565A-4C4B-80DB-F7CAFC3ED07B}|Exercicio3While\\Exercicio3While.csproj|solutionrelative:exercicio3while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\exercicios c#\\Exercicio3While\\Exercicio3While\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3While\\Program.cs",
+              "ToolTip": "C:\\temp\\exercicios c#\\Exercicio3While\\Exercicio3While\\Program.cs*",
+              "RelativeToolTip": "Exercicio3While\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:02:25.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

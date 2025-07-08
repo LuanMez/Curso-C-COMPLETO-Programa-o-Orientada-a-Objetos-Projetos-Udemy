@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\bin\Debug\converterMoeda.exe.config
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\bin\Debug\converterMoeda.exe
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\bin\Debug\converterMoeda.pdb
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\obj\Debug\converterMoeda.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\obj\Debug\converterMoeda.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\obj\Debug\converterMoeda.exe
+C:\temp\Codigo C#\Exercicios C#\converterMoeda\converterMoeda\obj\Debug\converterMoeda.pdb

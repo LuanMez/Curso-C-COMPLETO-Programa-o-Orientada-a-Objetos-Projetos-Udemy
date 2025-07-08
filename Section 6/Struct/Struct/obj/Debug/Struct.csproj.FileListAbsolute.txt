@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Struct\Struct\bin\Debug\Struct.exe.config
+C:\temp\Codigo C#\Section 6\Struct\Struct\bin\Debug\Struct.exe
+C:\temp\Codigo C#\Section 6\Struct\Struct\bin\Debug\Struct.pdb
+C:\temp\Codigo C#\Section 6\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Struct\Struct\obj\Debug\Struct.exe
+C:\temp\Codigo C#\Section 6\Struct\Struct\obj\Debug\Struct.pdb

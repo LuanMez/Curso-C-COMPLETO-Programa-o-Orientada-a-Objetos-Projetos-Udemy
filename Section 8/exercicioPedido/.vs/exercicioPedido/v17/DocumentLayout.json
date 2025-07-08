@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|c:\\temp\\codigo c#\\section 8\\exerciciopedido\\exerciciopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B2A737-C97B-40A8-8F57-8107E2005847}|exercicioPedido\\exercicioPedido.csproj|solutionrelative:exerciciopedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Program.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Program.cs",
+              "RelativeToolTip": "exercicioPedido\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:24:20.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Entities\\Order.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Order.cs",
+              "RelativeToolTip": "exercicioPedido\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:27:32.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "exercicioPedido\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:26:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Entities\\Product.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Product.cs",
+              "RelativeToolTip": "exercicioPedido\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:26:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Entities\\Client.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Client.cs",
+              "RelativeToolTip": "exercicioPedido\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:26:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "exercicioPedido\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\temp\\Codigo C#\\Section 8\\exercicioPedido\\exercicioPedido\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "exercicioPedido\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:26:48.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

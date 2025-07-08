@@ -1,0 +1,7 @@
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\bin\Debug\mostrarTresNumeroOMaior.exe.config
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\bin\Debug\mostrarTresNumeroOMaior.exe
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\bin\Debug\mostrarTresNumeroOMaior.pdb
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\obj\Debug\mostrarTresNumeroOMaior.csproj.AssemblyReference.cache
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\obj\Debug\mostrarTresNumeroOMaior.csproj.CoreCompileInputs.cache
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\obj\Debug\mostrarTresNumeroOMaior.exe
+C:\temp\projetos\mostrarTresNumeroOMaior\mostrarTresNumeroOMaior\obj\Debug\mostrarTresNumeroOMaior.pdb

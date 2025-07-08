@@ -1,0 +1,7 @@
+C:\temp\Codigo C#\Section 6\Var\Var\bin\Debug\Var.exe.config
+C:\temp\Codigo C#\Section 6\Var\Var\bin\Debug\Var.exe
+C:\temp\Codigo C#\Section 6\Var\Var\bin\Debug\Var.pdb
+C:\temp\Codigo C#\Section 6\Var\Var\obj\Debug\Var.csproj.AssemblyReference.cache
+C:\temp\Codigo C#\Section 6\Var\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+C:\temp\Codigo C#\Section 6\Var\Var\obj\Debug\Var.exe
+C:\temp\Codigo C#\Section 6\Var\Var\obj\Debug\Var.pdb

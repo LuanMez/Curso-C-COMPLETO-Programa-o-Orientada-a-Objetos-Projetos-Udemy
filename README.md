@@ -21,3 +21,6 @@ Curso completo de C# com foco em Programação Orientada a Objetos, abordando de
 - Controle de produtos e pedidos
 - Leitura e escrita de arquivos
 - Aplicações com regras de negócio usando orientação a objetos
+
+# Certificado:
+![Meu Currículo](curriculo.jpg)
